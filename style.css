@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif; /* Set the font family */
+  background-color: rgb(8, 0, 0); /* Set the background color */
+  margin: 0;
+  padding: 0; /* Remove default padding */
+  text-align: center;
+}
+
+.clock {
+  width: 100px;
+  height: 100px;
+  max-block-size: 100px;
+  margin: 20px auto;
+  background-color: #16bdbd;
+  padding: 70px 40px 12px 40px;
+  display: inline-block;
+  box-shadow: 0px 0px rgba(209, 8, 8, 0);
+  border-radius: 100px;
+  font-size: 30px;
+}
+h2 {
+  color: antiquewhite;
+  font-size: xx-large;
+  font-family: "Times New Roman", Times, serif;
+}
